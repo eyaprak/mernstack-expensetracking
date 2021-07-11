@@ -9,8 +9,8 @@ The mongoDB connection string needs to change in `/config/config.env` file to co
 
 ```
 $ cd ../mernstack-expensetracking
-$ npm install
 $ cd server
+$ npm install
 $ npm start
 ```
 
